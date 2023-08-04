@@ -23,7 +23,7 @@ I built this QR code website using HTML and CSS on VS Code.
 ### Links
 
 - Solution URL: (https://github.com/MuhammedSalmanAhmed/QR-Code-Challenge-Frontend-Mentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://muhammedsalmanahmed.github.io/QR-Code-Challenge-Frontend-Mentor/)
 
 ## My process
 
